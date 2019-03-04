@@ -1,0 +1,31 @@
+﻿  scanline.cpp
+c:\users\ka\source\repos\scanline\scanline\scanline.cpp(68): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\ka\source\repos\scanline\scanline\scanline.cpp(69): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\ka\source\repos\scanline\scanline\scanline.cpp(70): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\ka\source\repos\scanline\scanline\scanline.cpp(71): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\ka\source\repos\scanline\scanline\scanline.cpp(72): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\ka\source\repos\scanline\scanline\scanline.cpp(73): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\ka\source\repos\scanline\scanline\scanline.cpp(74): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\ka\source\repos\scanline\scanline\scanline.cpp(75): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\ka\source\repos\scanline\scanline\scanline.cpp(76): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\ka\source\repos\scanline\scanline\scanline.cpp(77): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\ka\source\repos\scanline\scanline\scanline.cpp(78): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\ka\source\repos\scanline\scanline\scanline.cpp(79): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\ka\source\repos\scanline\scanline\scanline.cpp(80): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\ka\source\repos\scanline\scanline\scanline.cpp(81): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\ka\source\repos\scanline\scanline\scanline.cpp(83): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\ka\source\repos\scanline\scanline\scanline.cpp(84): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\ka\source\repos\scanline\scanline\scanline.cpp(86): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\ka\source\repos\scanline\scanline\scanline.cpp(87): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\ka\source\repos\scanline\scanline\scanline.cpp(114): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+c:\users\ka\source\repos\scanline\scanline\scanline.cpp(115): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+c:\users\ka\source\repos\scanline\scanline\scanline.cpp(116): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+c:\users\ka\source\repos\scanline\scanline\scanline.cpp(117): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+c:\users\ka\source\repos\scanline\scanline\scanline.cpp(118): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+c:\users\ka\source\repos\scanline\scanline\scanline.cpp(119): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+c:\users\ka\source\repos\scanline\scanline\scanline.cpp(120): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+c:\users\ka\source\repos\scanline\scanline\scanline.cpp(121): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+c:\users\ka\source\repos\scanline\scanline\scanline.cpp(122): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+c:\users\ka\source\repos\scanline\scanline\scanline.cpp(125): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\ka\source\repos\scanline\scanline\scanline.cpp(139): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+  scanline.vcxproj -> C:\Users\Ka\source\repos\scanline\Debug\scanline.exe
